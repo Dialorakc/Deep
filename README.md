@@ -1,4 +1,4 @@
-<div align="center">                                                                                                                                                          ▌▐ 12:32
+<div align="center">   
   <pre>
     ╭──────────╮
     │   Deep   │  Deep ed0.0
